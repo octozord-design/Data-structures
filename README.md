@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/octozord-design/Data-structures/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/octozord-design/Data-structures/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/octozord-design/Data-structures/tree/master/0142-linked-list-cycle-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/octozord-design/Data-structures/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -37,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/octozord-design/Data-structures/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/octozord-design/Data-structures/tree/master/0142-linked-list-cycle-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/octozord-design/Data-structures/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/octozord-design/Data-structures/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/octozord-design/Data-structures/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
