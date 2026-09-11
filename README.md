@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/octozord-design/Data-structures/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/octozord-design/Data-structures/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/octozord-design/Data-structures/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
