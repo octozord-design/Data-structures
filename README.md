@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/octozord-design/Data-structures/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/octozord-design/Data-structures/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/octozord-design/Data-structures/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/octozord-design/Data-structures/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/octozord-design/Data-structures/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/octozord-design/Data-structures/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/octozord-design/Data-structures/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/octozord-design/Data-structures/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/octozord-design/Data-structures/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/octozord-design/Data-structures/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/octozord-design/Data-structures/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/octozord-design/Data-structures/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/octozord-design/Data-structures/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/octozord-design/Data-structures/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/octozord-design/Data-structures/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
